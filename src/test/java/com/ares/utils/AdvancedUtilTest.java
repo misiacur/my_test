@@ -16,6 +16,7 @@ public class AdvancedUtilTest {
     @Before
     public void setUp() throws Exception {
         this.util = new AdvancedUtil();
+        
     }
 
     @Test
