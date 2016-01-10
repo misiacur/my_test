@@ -20,6 +20,7 @@ public class AdvancedUtilTest {
 
     @Test
     public void testGetName() throws Exception {
+        
         Assert.assertEquals("FullName: Mikel", util.getName("Mikel"));
     }
 }
